@@ -1,3 +1,8 @@
+'''
+Repo: https://github.com/yaroslavvb/stuff
+Author: Yaroslav Bulatov
+'''
+
 import subprocess, re, os, sys
 
 # GPU picking
