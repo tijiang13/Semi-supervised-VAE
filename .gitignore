@@ -1,0 +1,10 @@
+.DS_Store
+deploy_key_rsa
+*.pyc
+*.swp
+nohup.out
+sftp-config.json
+
+# ignore such folders
+.ipynb_checkpoints
+__pycache__
