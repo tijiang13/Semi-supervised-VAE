@@ -42,3 +42,4 @@ Stacked model could improve the classifier by a large margin(~20%), but the resu
 # Reference
 1. [implementation by the author with theano](https://github.com/dpkingma/nips14-ssl)
 2. [implementation by saemundsson with tensorflow 0.8](https://github.com/saemundsson/semisupervised_vae)
+3. [Cuda setting script by yaroslavvb](https://github.com/yaroslavvb/stuff)
