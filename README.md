@@ -13,7 +13,7 @@ This repo replicates the result in paper [Semi-supervised Learning with Deep Gen
     VAE model trained by me       -> ssl_stacked_M1_M2.ipynb
 ```
 
-## Experiment results(100 labels, 49900 unlabels)
+## Experiment results(100 labelled, 49900 unlabelled)
 + stacked M1 & M2 ~ 95.7% accuracy in valid & test dataset, using the VAE parameters trained by saemundsson, which could be found [here](https://github.com/saemundsson/semisupervised_vae/tree/master/models)
 + M2, there are two cases, but both cases are not well studied & the performance is far from good.
     1. feed 100 labels & 100 unlabels samples points every iteration.(accuracy~87% in valid & test dataset.)
